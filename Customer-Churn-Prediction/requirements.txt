@@ -4,3 +4,4 @@ xgboost
 matplotlib  
 imbalanced-learn  
 jupyter
+seaborn

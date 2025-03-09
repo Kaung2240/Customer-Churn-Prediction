@@ -28,3 +28,5 @@ Thumbs.db
 
 # Others
 References/
+Customer-Churn-Prediction/data/raw
+Customer-Churn-Prediction/results
